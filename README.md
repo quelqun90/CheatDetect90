@@ -2,6 +2,8 @@
 
 Détecte les potentielle cheater sur votre serveur !
 
+!! Il ne ban pas !! Il envoie un message dans le tchat de tous les staffs : la détection de cheat trouvé !
+
 Installation:
 
 1 - Télécharger le CheatDetect90.dll
