@@ -11,3 +11,10 @@ Installation:
 2 - Mettre le fichier dans le dossier plugin de votre serveur
 
 3 - Lancer votre serveur et c'est finit !
+
+Les cheats potentiellement détéctés:
+
+1 - Le Vanish
+2 - Le Give Money Important (5 M) 
+3 - L'abus d'argent en banque/sur le joueur
+4 - Les Noms/Prénoms Modée (vide)
